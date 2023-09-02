@@ -1,7 +1,7 @@
-# Dataset for NEWA vs NORA3 Wind Atlas Analysis at FINO1
+# Dataset for NEWA and NORA3 Wind Atlas Analysis at FINO1
 
 ## Summary
-This repository hosts the Matlab code to reproduce primary figures from the research article titled "A One-Year Comparison of New Wind Atlases over the North Sea"[1]. The paper focuses on a comparative analysis of the New European Wind Atlas (NEWA) and the Norwegian hindcast archive (NORA3) database. Both these products have emerged as potential tools for wind energy applications. The analysis relies on data recorded in 2009 at the FINO1 platform in the North Sea. The repository's code helps to visualize the findings and emphasises the differences between NEWA and NORA3, supplemented by an additional dataset from ERA5.
+This repository hosts the Matlab code to reproduce primary figures from the research article titled "A One-Year Comparison of New Wind Atlases over the North Sea"[1]. The paper focuses on a comparative analysis of the New European Wind Atlas (NEWA) and the Norwegian hindcast archive (NORA3) database with in-situ measurements. Both NORA3 and NEWA have emerged as potential tools for wind energy applications. The analysis relies on data recorded in 2009 at the FINO1 platform in the North Sea. The repository's code helps to visualize the findings and emphasises the differences between NEWA and NORA3, supplemented by an additional dataset from ERA5.
 
 ## Repository Structure
 - **functions**: A directory containing essential functions utilized within `Documentation.mlx`.
