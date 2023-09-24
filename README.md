@@ -5,8 +5,8 @@ This repository hosts the Matlab code to reproduce primary figures from the rese
 
 ## Repository Structure
 - **functions**: A directory containing essential functions utilized within `Documentation.mlx`.
-- **data.mat**: Hosts data from NORA3 and measurements from the FINO1 offshore mast.
-- **data_ERA5.mat**: Contains data derived from ERA5.
+- **data_Cheynet2022.mat**: Hosts post-processed  data from NORA3, NEWA, ERA5 and measurements from the FINO1 offshore mast.
+- **SST_FINO1_2009.mat**: Contains post-processed SST data derived from remote sensing measurements and buoys (BSH)
 - **Documentation.mlx**: A Matlab LiveScript that details data usage and facilitates the recreation of some paper figures[1].
 
 > **Note**: This is the preliminary version of this repository, and some bugs might still persist. Feedback and issue reporting are encouraged.
