@@ -10,7 +10,7 @@ This repository hosts the Matlab code to reproduce primary figures from the rese
 - **SST_FINO1_2009.mat**: Contains post-processed SST data derived from remote sensing measurements and buoys (BSH)
 - **Documentation.mlx**: A Matlab LiveScript that details data usage and facilitates the recreation of some paper figures[1].
 
-> **Note**: This is the preliminary version of this repository, and some bugs might still persist. Feedback and issue reporting are encouraged.
+> **Note**: This is the preliminary version of this repository, and some bugs might still persist. Feedback and issue reporting are encouraged. Note that the time is also provided as datenum for those who want to download the dataset and use it in Python
 
 ## Figures from the Paper [1]
 1. **Figure 2**: Hourly mean wind speed at 51 m (left) and 101 m (right) estimated by NORA3 and NEWA versus the measurements from the FINO1 platform. Each data point stands for one hour, spanning from 2009-01-01 to 2009-12-31.
