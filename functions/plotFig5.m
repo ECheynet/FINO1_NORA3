@@ -1,4 +1,4 @@
-function plotFig5(BSH,NORA3,NEWA,zTarget)
+function [T_NORA3_100m] = plotFig5(BSH,NORA3,NEWA,zTarget)
 
 
 %% Find nearest location to 101 m
